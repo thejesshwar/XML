@@ -40,7 +40,7 @@ if uploaded_file is not None:
     input_df = pd.DataFrame([features], columns=['Nodes', 'Logic_Depth', 'Fan_Out'])
     prediction = model.predict(input_df)[0]
     st.divider()
-    st.metric("⏱️ Predicted Timing Delay", f"{prediction:.4f} ns")
+    st.metric("⏱️ Predicted Timing Delay", f"{prediction:} ns")
     st.subheader("Why this prediction?")
     with st.spinner("Generating AI Explanation..."):
         explainer = lime.lime_tabular.LimeTabularExplainer(
