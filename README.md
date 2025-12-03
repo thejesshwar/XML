@@ -1,5 +1,4 @@
 # ⚡ AI-Powered FPGA Timing Predictor
-### 🚀 Industry Academia Conclave 2025 | Problem Statement #6
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/) 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
