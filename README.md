@@ -21,7 +21,7 @@ By using a **Physics Informed Machine Learning Engine** this tool identifies arc
 ## ✨ Key Features
 * **⏱️ Zero Synthesis Profiling:** Instant delay prediction vs Hours for standard tools.
 * **🧠 Explainable AI:** Uses **LIME** to generate visual charts explaining why a circuit is slow.
-* **⚛️ Physics Informed Data:** Trained on a synthetic dataset generated from fundamental circuit delay laws ($Delay \propto Depth + Fanout$) overcoming the scarcity of industrial data.
+* **⚛️ Physics Informed Data:** Trained on a synthetic dataset generated from fundamental circuit delay laws overcoming the scarcity of industrial data.
 * **💻 Interactive UI:** A Drag and Drop Web Interface built with **Streamlit**.
 
 ---
